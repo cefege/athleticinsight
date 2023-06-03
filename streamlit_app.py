@@ -95,7 +95,7 @@ def print_markdown_from_file(file_path):
 
 def main():
     hide_streamlit_header_footer()
-    st.title("Aathletic Insight Chat Bot")
+    st.title("Athletic Insight Chat Bro")
 
     st.write("Ask us any question.")
 
